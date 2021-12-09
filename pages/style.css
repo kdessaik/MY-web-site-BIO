@@ -4,8 +4,8 @@
   --primary-color: #9926a3;
   --secondary-color: #0a2063;
   --dark-color: #0f3455;
-  --light-color: #f8a6df;
-  --success-color: #ff55b8;
+  --light-color: #9bb4be;
+  --success-color: #faf4f8;
   --error-color: #be3796;
 }
 
@@ -43,9 +43,6 @@ p {
   margin: 10px 0;
 }
 
-img {
-  width: 500%;
-}
 
 code,
 pre {
@@ -73,9 +70,10 @@ input {
   width: 100%;
 }
 .navbar img{
-  height: 300px;
-  width: 100%;
+  height: 100%;
+  width: 30%;
   border-radius: 50%;
+  margin: 10px 5px;
 }
 
 .navbar ul {
