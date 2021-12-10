@@ -239,4 +239,7 @@
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
   }
-  
+  .audio{
+    height: 20px;
+    width: 50%;
+  }
