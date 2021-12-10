@@ -417,3 +417,9 @@ box-shadow: 2px 2px 4px 0px #006773;
 border-radius:7px 7px 7px 7px ;
 width: 50%;
 }
+video{
+  border-radius: 30%;
+  border: blueviolet;
+  width: 70%;
+
+}
