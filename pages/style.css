@@ -69,6 +69,7 @@ input {
 
 /* Navbar */
 .navbar {
+  flex-wrap:wrap;
   background-color: var(--primary-color);
   color: #fff;
   height: 300px;
