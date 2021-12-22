@@ -21,6 +21,9 @@ body {
   line-height: 1.6;
   background-image: url("D");
 }
+.container grid div{
+Flex-wrap:wrap;;
+}
 
 ul {
   list-style-type: none;
